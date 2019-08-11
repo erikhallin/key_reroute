@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1440094923 source:c:\erikprogram\key_reroute\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<iostream>
+	<fcntl.h>
+	"key_reroute.h"
+
+1440010848 source:c:\erikprogram\key_reroute\key_reroute.cpp
+	"key_reroute.h"
+
+1440095565 c:\erikprogram\key_reroute\key_reroute.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<stdlib.h>
+
